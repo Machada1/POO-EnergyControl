@@ -1,4 +1,4 @@
-# POO-EnergyControl
+# POO-SuperShock
 Trabalho Final da matéria de POO
 
 O Grupo  foi contratado por uma empresa que pretende comercializar um aplicativo
