@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace SuperShock
 {
@@ -29,8 +30,43 @@ namespace SuperShock
             Pessoa consumidor = tipo == "1" ? new PessoaFisica(nome, identificador) : new PessoaJuridica(nome, identificador);
             gerenciador.CadastrarConsumidor(consumidor);
 
-            
-            MessageBox.Show("Cadastro realizado com sucesso!");
+            try
+            {
+                if (string.IsNullOrEmpty(txtNomeConsumidor.Text))
+                {
+                    MessageBox.Show("Nome do Cliente não pode ser vazio. Por favor, preencha o campo para prosseguir.", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    txtNomeConsumidor.Focus();
+                    return;
+                }
+
+                if (string.IsNullOrEmpty(txtCPF.Text))
+                {
+                    MessageBox.Show("CPF não pode ser vazio. Por favor, preencha o campo para prosseguir.", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    txtCPF.Focus();
+                    return;
+                }
+
+                if (string.IsNullOrEmpty(txtTipoConsumidor.Text))
+                {
+                    MessageBox.Show("Tipo de consumidor não pode ser vazio. Por favor, preencha o campo para prosseguir.", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    txtTipoConsumidor.Focus();
+                    return;
+                }
+
+                else
+                {                    
+                        // Continuação do processo de cadastro
+                        MessageBox.Show("Todos os campos foram preenchidos corretamente!", "Sucesso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+            }
+            catch
+            (Exception ex)
+            {
+                MessageBox.Show($"Ocorreu um erro: {ex.Message}", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+                        
+
+            //MessageBox.Show("Cadastro realizado com sucesso!");
 
             txtNomeConsumidor.Text = string.Empty;
             txtCPF.Text = string.Empty;

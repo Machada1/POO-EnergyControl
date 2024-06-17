@@ -72,7 +72,7 @@
             // lblTipo
             // 
             lblTipo.AutoSize = true;
-            lblTipo.Location = new Point(87, 225);
+            lblTipo.Location = new Point(87, 212);
             lblTipo.Name = "lblTipo";
             lblTipo.Size = new Size(312, 15);
             lblTipo.TabIndex = 4;
@@ -80,7 +80,7 @@
             // 
             // txtTipoConsumidor
             // 
-            txtTipoConsumidor.Location = new Point(87, 252);
+            txtTipoConsumidor.Location = new Point(87, 242);
             txtTipoConsumidor.Name = "txtTipoConsumidor";
             txtTipoConsumidor.Size = new Size(100, 23);
             txtTipoConsumidor.TabIndex = 5;
