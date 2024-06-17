@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmCadastrarConta));
             btnCadastrarConta = new Button();
             txtLeituraAnterior = new TextBox();
             lblLeituraAnterior = new Label();
@@ -37,88 +38,114 @@
             lblTipoConta = new Label();
             txtCPFCNPJ = new TextBox();
             lblCPFCNPJ = new Label();
+            pictureBox1 = new PictureBox();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // btnCadastrarConta
             // 
-            btnCadastrarConta.Location = new Point(344, 338);
+            btnCadastrarConta.BackColor = Color.DarkOrange;
+            btnCadastrarConta.Cursor = Cursors.Hand;
+            btnCadastrarConta.Font = new Font("Yu Gothic", 14.25F, FontStyle.Bold);
+            btnCadastrarConta.ForeColor = Color.Black;
+            btnCadastrarConta.Location = new Point(269, 367);
+            btnCadastrarConta.Margin = new Padding(0);
             btnCadastrarConta.Name = "btnCadastrarConta";
-            btnCadastrarConta.Size = new Size(75, 23);
+            btnCadastrarConta.Size = new Size(116, 50);
             btnCadastrarConta.TabIndex = 13;
             btnCadastrarConta.Text = "Cadastrar";
-            btnCadastrarConta.UseVisualStyleBackColor = true;
+            btnCadastrarConta.UseVisualStyleBackColor = false;
             btnCadastrarConta.Click += btnCadastrarConta_Click;
             // 
             // txtLeituraAnterior
             // 
             txtLeituraAnterior.Location = new Point(157, 247);
             txtLeituraAnterior.Name = "txtLeituraAnterior";
-            txtLeituraAnterior.Size = new Size(100, 23);
+            txtLeituraAnterior.Size = new Size(200, 23);
             txtLeituraAnterior.TabIndex = 12;
             // 
             // lblLeituraAnterior
             // 
             lblLeituraAnterior.AutoSize = true;
+            lblLeituraAnterior.Font = new Font("Yu Gothic", 9.75F, FontStyle.Bold);
+            lblLeituraAnterior.ForeColor = Color.DarkOrange;
             lblLeituraAnterior.Location = new Point(157, 229);
             lblLeituraAnterior.Name = "lblLeituraAnterior";
-            lblLeituraAnterior.Size = new Size(135, 15);
+            lblLeituraAnterior.Size = new Size(160, 17);
             lblLeituraAnterior.TabIndex = 11;
-            lblLeituraAnterior.Text = "Leitura do mês anterior: ";
+            lblLeituraAnterior.Text = "Leitura do mês anterior";
             // 
             // txtLeitura
             // 
             txtLeitura.Location = new Point(157, 158);
             txtLeitura.Name = "txtLeitura";
-            txtLeitura.Size = new Size(100, 23);
+            txtLeitura.Size = new Size(200, 23);
             txtLeitura.TabIndex = 10;
             // 
             // lblLeituraAtual
             // 
             lblLeituraAtual.AutoSize = true;
+            lblLeituraAtual.Font = new Font("Yu Gothic", 9.75F, FontStyle.Bold);
+            lblLeituraAtual.ForeColor = Color.DarkOrange;
             lblLeituraAtual.Location = new Point(157, 140);
             lblLeituraAtual.Name = "lblLeituraAtual";
-            lblLeituraAtual.Size = new Size(117, 15);
+            lblLeituraAtual.Size = new Size(142, 17);
             lblLeituraAtual.TabIndex = 9;
-            lblLeituraAtual.Text = "Leitura do mês atual:";
+            lblLeituraAtual.Text = "Leitura do mês atual";
             // 
             // txtTipoConta
             // 
             txtTipoConta.Location = new Point(157, 86);
             txtTipoConta.Name = "txtTipoConta";
-            txtTipoConta.Size = new Size(100, 23);
+            txtTipoConta.Size = new Size(200, 23);
             txtTipoConta.TabIndex = 8;
             // 
             // lblTipoConta
             // 
             lblTipoConta.AutoSize = true;
+            lblTipoConta.Font = new Font("Yu Gothic", 9.75F, FontStyle.Bold);
+            lblTipoConta.ForeColor = Color.DarkOrange;
             lblTipoConta.Location = new Point(157, 68);
             lblTipoConta.Name = "lblTipoConta";
-            lblTipoConta.Size = new Size(209, 15);
+            lblTipoConta.Size = new Size(252, 17);
             lblTipoConta.TabIndex = 7;
-            lblTipoConta.Text = "Tipo de conta (residencial/comercial): ";
+            lblTipoConta.Text = "Tipo de conta (residencial/comercial)";
             // 
             // txtCPFCNPJ
             // 
-            txtCPFCNPJ.Location = new Point(452, 112);
+            txtCPFCNPJ.Location = new Point(157, 311);
             txtCPFCNPJ.Name = "txtCPFCNPJ";
-            txtCPFCNPJ.Size = new Size(100, 23);
+            txtCPFCNPJ.Size = new Size(200, 23);
             txtCPFCNPJ.TabIndex = 15;
-            //txtCPFCNPJ.TextChanged += txtCPFCNPJ_TextChanged;
             // 
             // lblCPFCNPJ
             // 
             lblCPFCNPJ.AutoSize = true;
-            lblCPFCNPJ.Location = new Point(452, 94);
+            lblCPFCNPJ.Font = new Font("Yu Gothic", 9.75F, FontStyle.Bold);
+            lblCPFCNPJ.ForeColor = Color.DarkOrange;
+            lblCPFCNPJ.Location = new Point(157, 293);
             lblCPFCNPJ.Name = "lblCPFCNPJ";
-            lblCPFCNPJ.Size = new Size(147, 15);
+            lblCPFCNPJ.Size = new Size(174, 17);
             lblCPFCNPJ.TabIndex = 14;
-            lblCPFCNPJ.Text = "CPF/CNPJ do consumidor:";
+            lblCPFCNPJ.Text = "CPF/CNPJ do consumidor";
+            // 
+            // pictureBox1
+            // 
+            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
+            pictureBox1.Location = new Point(531, -1);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(270, 450);
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox1.TabIndex = 16;
+            pictureBox1.TabStop = false;
             // 
             // FrmCadastrarConta
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.Black;
             ClientSize = new Size(800, 450);
+            Controls.Add(pictureBox1);
             Controls.Add(txtCPFCNPJ);
             Controls.Add(lblCPFCNPJ);
             Controls.Add(btnCadastrarConta);
@@ -131,6 +158,7 @@
             Name = "FrmCadastrarConta";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Cadastrar Conta";
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -146,5 +174,6 @@
         private Label lblTipoConta;
         private TextBox txtCPFCNPJ;
         private Label lblCPFCNPJ;
+        private PictureBox pictureBox1;
     }
 }

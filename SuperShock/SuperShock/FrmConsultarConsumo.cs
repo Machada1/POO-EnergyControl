@@ -22,9 +22,9 @@ namespace SuperShock
             GerenciadorDeContas gerenciador = new GerenciadorDeContas();
 
             string identificadorConsultaConsumo = txtCPFCNPJConsumo.Text;
-            
+
             double? consumo = gerenciador.ConsultarConsumo(identificadorConsultaConsumo);
-            
+
 
             try
             {
@@ -34,7 +34,7 @@ namespace SuperShock
                     txtCPFCNPJConsumo.Focus();
                     return;
                 }
-              
+
             }
             catch (Exception ex)
             {
@@ -51,6 +51,16 @@ namespace SuperShock
             }
 
             txtConsumo.Visible = true;
+        }
+
+        private void FrmConsultarConsumo_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblCPFCNPJ_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -16,7 +16,7 @@ namespace SuperShock
         public FrmCadastrarConsumidor()
         {
             InitializeComponent();
-            
+
         }
 
         private void btnCadastrarConsumidor_Click(object sender, EventArgs e)
@@ -54,9 +54,9 @@ namespace SuperShock
                 }
 
                 else
-                {                    
-                        // Continuação do processo de cadastro
-                        MessageBox.Show("Todos os campos foram preenchidos corretamente!", "Sucesso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                {
+                    // Continuação do processo de cadastro
+                    MessageBox.Show("Todos os campos foram preenchidos corretamente!", "Sucesso", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
             }
             catch
@@ -64,7 +64,7 @@ namespace SuperShock
             {
                 MessageBox.Show($"Ocorreu um erro: {ex.Message}", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-                        
+
 
             //MessageBox.Show("Cadastro realizado com sucesso!");
 
@@ -75,6 +75,11 @@ namespace SuperShock
         }
 
         private void FrmCadastrarConsumidor_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblTipo_Click(object sender, EventArgs e)
         {
 
         }

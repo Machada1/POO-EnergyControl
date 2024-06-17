@@ -28,31 +28,38 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmConsultarConsumo));
             txtCPFCNPJConsumo = new TextBox();
             lblCPFCNPJ = new Label();
             txtConsumo = new TextBox();
             btnConsultarConsumo = new Button();
+            pictureBox1 = new PictureBox();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // txtCPFCNPJConsumo
             // 
-            txtCPFCNPJConsumo.Location = new Point(303, 152);
+            txtCPFCNPJConsumo.Location = new Point(224, 157);
             txtCPFCNPJConsumo.Name = "txtCPFCNPJConsumo";
-            txtCPFCNPJConsumo.Size = new Size(100, 23);
+            txtCPFCNPJConsumo.Size = new Size(200, 23);
             txtCPFCNPJConsumo.TabIndex = 17;
             // 
             // lblCPFCNPJ
             // 
             lblCPFCNPJ.AutoSize = true;
-            lblCPFCNPJ.Location = new Point(277, 115);
+            lblCPFCNPJ.Font = new Font("Yu Gothic", 9.75F, FontStyle.Bold);
+            lblCPFCNPJ.ForeColor = Color.DarkOrange;
+            lblCPFCNPJ.Location = new Point(224, 137);
             lblCPFCNPJ.Name = "lblCPFCNPJ";
-            lblCPFCNPJ.Size = new Size(147, 15);
+            lblCPFCNPJ.Size = new Size(174, 17);
             lblCPFCNPJ.TabIndex = 16;
-            lblCPFCNPJ.Text = "CPF/CNPJ do consumidor:";
+            lblCPFCNPJ.Text = "CPF/CNPJ do consumidor";
+            lblCPFCNPJ.Click += lblCPFCNPJ_Click;
             // 
             // txtConsumo
             // 
-            txtConsumo.Location = new Point(231, 271);
+            txtConsumo.Location = new Point(183, 251);
+            txtConsumo.Multiline = true;
             txtConsumo.Name = "txtConsumo";
             txtConsumo.Size = new Size(256, 23);
             txtConsumo.TabIndex = 18;
@@ -60,19 +67,34 @@
             // 
             // btnConsultarConsumo
             // 
-            btnConsultarConsumo.Location = new Point(318, 335);
+            btnConsultarConsumo.BackColor = Color.DarkOrange;
+            btnConsultarConsumo.Cursor = Cursors.Hand;
+            btnConsultarConsumo.Font = new Font("Yu Gothic", 14.25F, FontStyle.Bold);
+            btnConsultarConsumo.Location = new Point(255, 333);
             btnConsultarConsumo.Name = "btnConsultarConsumo";
-            btnConsultarConsumo.Size = new Size(75, 23);
+            btnConsultarConsumo.Size = new Size(116, 50);
             btnConsultarConsumo.TabIndex = 19;
-            btnConsultarConsumo.Text = "Consultar ";
-            btnConsultarConsumo.UseVisualStyleBackColor = true;
+            btnConsultarConsumo.Text = "Consultar";
+            btnConsultarConsumo.UseVisualStyleBackColor = false;
             btnConsultarConsumo.Click += btnConsultarConsumo_Click;
+            // 
+            // pictureBox1
+            // 
+            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
+            pictureBox1.Location = new Point(532, 0);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(270, 450);
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox1.TabIndex = 20;
+            pictureBox1.TabStop = false;
             // 
             // FrmConsultarConsumo
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.Black;
             ClientSize = new Size(800, 450);
+            Controls.Add(pictureBox1);
             Controls.Add(btnConsultarConsumo);
             Controls.Add(txtConsumo);
             Controls.Add(txtCPFCNPJConsumo);
@@ -80,6 +102,8 @@
             Name = "FrmConsultarConsumo";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Consultar Consumo";
+            Load += FrmConsultarConsumo_Load;
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -90,5 +114,6 @@
         private Label lblCPFCNPJ;
         private TextBox txtConsumo;
         private Button btnConsultarConsumo;
+        private PictureBox pictureBox1;
     }
 }
