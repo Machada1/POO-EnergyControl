@@ -30,8 +30,8 @@
         {
             lblNomeConsumidor = new Label();
             txtNomeConsumidor = new TextBox();
-            lblCPF = new Label();
-            txtCPF = new TextBox();
+            lblCPFCNPJ = new Label();
+            txtCPFCNPJ = new TextBox();
             lblTipo = new Label();
             txtTipoConsumidor = new TextBox();
             btnCadastrarConsumidor = new Button();
@@ -53,21 +53,21 @@
             txtNomeConsumidor.Size = new Size(100, 23);
             txtNomeConsumidor.TabIndex = 1;
             // 
-            // lblCPF
+            // lblCPFCNPJ
             // 
-            lblCPF.AutoSize = true;
-            lblCPF.Location = new Point(87, 136);
-            lblCPF.Name = "lblCPF";
-            lblCPF.Size = new Size(120, 15);
-            lblCPF.TabIndex = 2;
-            lblCPF.Text = "CPF do Consumidor: ";
+            lblCPFCNPJ.AutoSize = true;
+            lblCPFCNPJ.Location = new Point(87, 136);
+            lblCPFCNPJ.Name = "lblCPFCNPJ";
+            lblCPFCNPJ.Size = new Size(120, 15);
+            lblCPFCNPJ.TabIndex = 2;
+            lblCPFCNPJ.Text = "CPF do Consumidor: ";
             // 
-            // txtCPF
+            // txtCPFCNPJ
             // 
-            txtCPF.Location = new Point(87, 154);
-            txtCPF.Name = "txtCPF";
-            txtCPF.Size = new Size(100, 23);
-            txtCPF.TabIndex = 3;
+            txtCPFCNPJ.Location = new Point(87, 154);
+            txtCPFCNPJ.Name = "txtCPFCNPJ";
+            txtCPFCNPJ.Size = new Size(100, 23);
+            txtCPFCNPJ.TabIndex = 3;
             // 
             // lblTipo
             // 
@@ -103,8 +103,8 @@
             Controls.Add(btnCadastrarConsumidor);
             Controls.Add(txtTipoConsumidor);
             Controls.Add(lblTipo);
-            Controls.Add(txtCPF);
-            Controls.Add(lblCPF);
+            Controls.Add(txtCPFCNPJ);
+            Controls.Add(lblCPFCNPJ);
             Controls.Add(txtNomeConsumidor);
             Controls.Add(lblNomeConsumidor);
             Name = "FrmCadastrarConsumidor";
@@ -119,8 +119,8 @@
 
         private Label lblNomeConsumidor;
         private TextBox txtNomeConsumidor;
-        private Label lblCPF;
-        private TextBox txtCPF;
+        private Label lblCPFCNPJ;
+        private TextBox txtCPFCNPJ;
         private Label lblTipo;
         private TextBox txtTipoConsumidor;
         private Button btnCadastrarConsumidor;

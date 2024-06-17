@@ -103,6 +103,7 @@
             txtCPFCNPJ.Name = "txtCPFCNPJ";
             txtCPFCNPJ.Size = new Size(100, 23);
             txtCPFCNPJ.TabIndex = 15;
+            //txtCPFCNPJ.TextChanged += txtCPFCNPJ_TextChanged;
             // 
             // lblCPFCNPJ
             // 

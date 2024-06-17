@@ -25,7 +25,7 @@ namespace SuperShock
             GerenciadorDeContas gerenciador = new GerenciadorDeContas();
 
             string nome = txtNomeConsumidor.Text;
-            string identificador = txtCPF.Text;
+            string identificador = txtCPFCNPJ.Text;
             string tipo = txtTipoConsumidor.Text;
             Pessoa consumidor = tipo == "1" ? new PessoaFisica(nome, identificador) : new PessoaJuridica(nome, identificador);
             gerenciador.CadastrarConsumidor(consumidor);
@@ -39,10 +39,10 @@ namespace SuperShock
                     return;
                 }
 
-                if (string.IsNullOrEmpty(txtCPF.Text))
+                if (string.IsNullOrEmpty(txtCPFCNPJ.Text))
                 {
                     MessageBox.Show("CPF não pode ser vazio. Por favor, preencha o campo para prosseguir.", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    txtCPF.Focus();
+                    txtCPFCNPJ.Focus();
                     return;
                 }
 
@@ -69,7 +69,7 @@ namespace SuperShock
             //MessageBox.Show("Cadastro realizado com sucesso!");
 
             txtNomeConsumidor.Text = string.Empty;
-            txtCPF.Text = string.Empty;
+            txtCPFCNPJ.Text = string.Empty;
             txtTipoConsumidor.Text = string.Empty;
 
         }
