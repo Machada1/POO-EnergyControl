@@ -100,6 +100,7 @@
             Controls.Add(txtCPFCNPJ);
             Controls.Add(lblCPFCNPJ);
             Name = "FrmConsultarValorTotal";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Consultar Valor Total";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);

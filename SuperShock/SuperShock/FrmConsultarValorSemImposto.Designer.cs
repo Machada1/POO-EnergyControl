@@ -101,6 +101,7 @@
             Controls.Add(lblCPFCNPJ);
             Name = "FrmConsultarValorSemImposto";
             ShowIcon = false;
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Consultar Valor sem Imposto";
             TopMost = true;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();

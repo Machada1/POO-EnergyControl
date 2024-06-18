@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SuperShock")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b187b639d575e759a9acdecf8705929908d1a890")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+139f273460dca34ee1b75b58180c34b6899be0f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("SuperShock")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SuperShock")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

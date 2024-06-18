@@ -1,65 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\",
+  "WorkspaceRootPath": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\supershock\\frmconsultarconsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|solutionrelative:supershock\\frmconsultarconsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\supershock\\frmcadastrarconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|solutionrelative:supershock\\frmcadastrarconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|c:\\users\\usu\u00E1rio\\downloads\\3\u00BA\\poo\\poo-supershock\\supershock\\supershock\\frmconsultarvalortotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|solutionrelative:supershock\\frmconsultarvalortotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|c:\\users\\usu\u00E1rio\\downloads\\3\u00BA\\poo\\poo-supershock\\supershock\\supershock\\frmconsultarvalorsemimposto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|solutionrelative:supershock\\frmconsultarvalorsemimposto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|c:\\users\\usu\u00E1rio\\downloads\\3\u00BA\\poo\\poo-supershock\\supershock\\supershock\\frmconsultarconsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|solutionrelative:supershock\\frmconsultarconsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\supershock\\frmcadastrarconsumidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\supershock\\frmcadastrarconsumidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|solutionrelative:supershock\\frmcadastrarconsumidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|c:\\users\\usu\u00E1rio\\downloads\\3\u00BA\\poo\\poo-supershock\\supershock\\supershock\\contadeenergia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|solutionrelative:supershock\\contadeenergia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|c:\\users\\usu\u00E1rio\\onedrive\\desktop\\poo-supershock\\poo-supershock\\supershock\\supershock\\frmcarregardados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|solutionrelative:supershock\\frmcarregardados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|c:\\users\\usu\u00E1rio\\downloads\\3\u00BA\\poo\\poo-supershock\\supershock\\supershock\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|solutionrelative:supershock\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|c:\\users\\usu\u00E1rio\\onedrive\\desktop\\poo-supershock\\poo-supershock\\supershock\\supershock\\frmsalvardados.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|solutionrelative:supershock\\frmsalvardados.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|c:\\users\\usu\u00E1rio\\downloads\\3\u00BA\\poo\\poo-supershock\\supershock\\supershock\\frmcadastrarconsumidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|solutionrelative:supershock\\frmcadastrarconsumidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|c:\\users\\usu\u00E1rio\\onedrive\\desktop\\poo-supershock\\poo-supershock\\supershock\\supershock\\frmcarregardados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|solutionrelative:supershock\\frmcarregardados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|c:\\users\\usu\u00E1rio\\downloads\\3\u00BA\\poo\\poo-supershock\\supershock\\supershock\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|c:\\users\\usu\u00E1rio\\onedrive\\desktop\\poo-supershock\\poo-supershock\\supershock\\supershock\\frmsalvardados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|solutionrelative:supershock\\frmsalvardados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\supershock\\frmsalvardados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|solutionrelative:supershock\\frmsalvardados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|c:\\users\\usu\u00E1rio\\onedrive\\desktop\\poo-supershock\\poo-supershock\\supershock\\supershock\\frmcarregardados.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|solutionrelative:supershock\\frmcarregardados.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|c:\\users\\usu\u00E1rio\\onedrive\\desktop\\poo-supershock\\poo-supershock\\supershock\\supershock\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|solutionrelative:supershock\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|c:\\users\\usu\u00E1rio\\downloads\\3\u00BA\\poo\\poo-supershock\\supershock\\supershock\\frmconsultarvalortotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\supershock\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|solutionrelative:supershock\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\supershock\\frmconsultarconsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|solutionrelative:supershock\\frmconsultarconsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|c:\\users\\usu\u00E1rio\\onedrive\\desktop\\poo-supershock\\poo-supershock\\supershock\\supershock\\contadeenergia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|solutionrelative:supershock\\contadeenergia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\supershock\\frmconsultarvalorsemimposto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|solutionrelative:supershock\\frmconsultarvalorsemimposto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\supershock\\frmconsultarvalortotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|solutionrelative:supershock\\frmconsultarvalortotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|c:\\users\\usu\u00E1rio\\onedrive\\desktop\\poo-supershock\\poo-supershock\\supershock\\supershock\\frmconsultarconsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|solutionrelative:supershock\\frmconsultarconsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|c:\\users\\usu\u00E1rio\\onedrive\\desktop\\poo-supershock\\poo-supershock\\supershock\\supershock\\frmconsultarvalortotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|solutionrelative:supershock\\frmconsultarvalortotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|c:\\users\\usu\u00E1rio\\downloads\\3\u00BA\\poo\\poo-supershock\\supershock\\supershock\\frmcadastrarconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|c:\\users\\usu\u00E1rio\\onedrive\\desktop\\poo-supershock\\poo-supershock\\supershock\\supershock\\frmcadastrarconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|solutionrelative:supershock\\frmcadastrarconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|c:\\users\\usu\u00E1rio\\downloads\\3\u00BA\\poo\\poo-supershock\\supershock\\supershock\\frmconsultarconsumo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|c:\\users\\usu\u00E1rio\\onedrive\\desktop\\poo-supershock\\poo-supershock\\supershock\\supershock\\frmconsultarconsumo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|solutionrelative:supershock\\frmconsultarconsumo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|c:\\users\\usu\u00E1rio\\downloads\\3\u00BA\\poo\\poo-supershock\\supershock\\supershock\\frmconsultarvalortotal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|c:\\users\\usu\u00E1rio\\onedrive\\desktop\\poo-supershock\\poo-supershock\\supershock\\supershock\\frmconsultarvalortotal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|solutionrelative:supershock\\frmconsultarvalortotal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|c:\\users\\usu\u00E1rio\\downloads\\3\u00BA\\poo\\poo-supershock\\supershock\\supershock\\supershock.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|c:\\users\\usu\u00E1rio\\onedrive\\desktop\\poo-supershock\\poo-supershock\\supershock\\supershock\\supershock.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{971897EA-A3DF-42A5-A4FC-F2347F454582}|SuperShock\\SuperShock.csproj|solutionrelative:supershock\\supershock.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -70,76 +86,66 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FrmConsultarConsumo.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\SuperShock\\FrmConsultarConsumo.cs",
-              "RelativeDocumentMoniker": "SuperShock\\FrmConsultarConsumo.cs",
-              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\SuperShock\\FrmConsultarConsumo.cs [Projeto]",
-              "RelativeToolTip": "SuperShock\\FrmConsultarConsumo.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T13:38:53.295Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrmConsultarValorSemImposto.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\SuperShock\\FrmConsultarValorSemImposto.cs",
-              "RelativeDocumentMoniker": "SuperShock\\FrmConsultarValorSemImposto.cs",
-              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\SuperShock\\FrmConsultarValorSemImposto.cs [Projeto]",
-              "RelativeToolTip": "SuperShock\\FrmConsultarValorSemImposto.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T18:56:58.355Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FrmConsultarValorTotal.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\SuperShock\\FrmConsultarValorTotal.cs",
-              "RelativeDocumentMoniker": "SuperShock\\FrmConsultarValorTotal.cs",
-              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\SuperShock\\FrmConsultarValorTotal.cs [Projeto]",
-              "RelativeToolTip": "SuperShock\\FrmConsultarValorTotal.cs [Projeto]",
+              "Title": "FrmSalvarDados.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmSalvarDados.Designer.cs",
+              "RelativeDocumentMoniker": "SuperShock\\FrmSalvarDados.Designer.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmSalvarDados.Designer.cs",
+              "RelativeToolTip": "SuperShock\\FrmSalvarDados.Designer.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAwC8AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T23:10:19.242Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmCadastrarConta.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\SuperShock\\FrmCadastrarConta.cs",
-              "RelativeDocumentMoniker": "SuperShock\\FrmCadastrarConta.cs",
-              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\SuperShock\\FrmCadastrarConta.cs [Projeto]",
-              "RelativeToolTip": "SuperShock\\FrmCadastrarConta.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T22:20:07.614Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FrmConsultarConsumo.cs",
-              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\SuperShock\\FrmConsultarConsumo.cs",
-              "RelativeDocumentMoniker": "SuperShock\\FrmConsultarConsumo.cs",
-              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\SuperShock\\FrmConsultarConsumo.cs",
-              "RelativeToolTip": "SuperShock\\FrmConsultarConsumo.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAD4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T13:42:56.739Z",
+              "WhenOpened": "2024-06-18T18:40:10.359Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "FrmSalvarDados.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmSalvarDados.cs",
+              "RelativeDocumentMoniker": "SuperShock\\FrmSalvarDados.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmSalvarDados.cs",
+              "RelativeToolTip": "SuperShock\\FrmSalvarDados.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T18:38:44.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmCarregarDados.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmCarregarDados.cs",
+              "RelativeDocumentMoniker": "SuperShock\\FrmCarregarDados.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmCarregarDados.cs",
+              "RelativeToolTip": "SuperShock\\FrmCarregarDados.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T18:34:23.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmCarregarDados.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmCarregarDados.cs",
+              "RelativeDocumentMoniker": "SuperShock\\FrmCarregarDados.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmCarregarDados.cs [Projeto]",
+              "RelativeToolTip": "SuperShock\\FrmCarregarDados.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T18:32:49.843Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "FrmCadastrarConsumidor.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\SuperShock\\FrmCadastrarConsumidor.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmCadastrarConsumidor.cs",
               "RelativeDocumentMoniker": "SuperShock\\FrmCadastrarConsumidor.cs",
-              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\SuperShock\\FrmCadastrarConsumidor.cs [Projeto]",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmCadastrarConsumidor.cs [Projeto]",
               "RelativeToolTip": "SuperShock\\FrmCadastrarConsumidor.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-17T13:40:13.122Z",
@@ -147,24 +153,36 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmSalvarDados.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmSalvarDados.cs",
+              "RelativeDocumentMoniker": "SuperShock\\FrmSalvarDados.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmSalvarDados.cs [Projeto]",
+              "RelativeToolTip": "SuperShock\\FrmSalvarDados.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T18:22:38.18Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ContaDeEnergia.cs",
-              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\SuperShock\\ContaDeEnergia.cs",
-              "RelativeDocumentMoniker": "SuperShock\\ContaDeEnergia.cs",
-              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\SuperShock\\ContaDeEnergia.cs",
-              "RelativeToolTip": "SuperShock\\ContaDeEnergia.cs",
+              "Title": "FrmCarregarDados.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmCarregarDados.Designer.cs",
+              "RelativeDocumentMoniker": "SuperShock\\FrmCarregarDados.Designer.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmCarregarDados.Designer.cs",
+              "RelativeToolTip": "SuperShock\\FrmCarregarDados.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T13:41:44.114Z",
+              "WhenOpened": "2024-06-18T18:37:44.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "FrmPrincipal.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\SuperShock\\FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmPrincipal.cs",
               "RelativeDocumentMoniker": "SuperShock\\FrmPrincipal.cs",
-              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\SuperShock\\FrmPrincipal.cs [Projeto]",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmPrincipal.cs [Projeto]",
               "RelativeToolTip": "SuperShock\\FrmPrincipal.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-17T19:00:47.282Z",
@@ -172,89 +190,129 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FrmCadastrarConsumidor.cs",
-              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\SuperShock\\FrmCadastrarConsumidor.cs",
-              "RelativeDocumentMoniker": "SuperShock\\FrmCadastrarConsumidor.cs",
-              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\SuperShock\\FrmCadastrarConsumidor.cs",
-              "RelativeToolTip": "SuperShock\\FrmCadastrarConsumidor.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAA5wFMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T16:45:34.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "FrmPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\SuperShock\\FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmPrincipal.cs",
               "RelativeDocumentMoniker": "SuperShock\\FrmPrincipal.cs",
-              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\SuperShock\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmPrincipal.cs",
               "RelativeToolTip": "SuperShock\\FrmPrincipal.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAgwCoAAAAAAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAEwDcAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-16T16:45:12.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FrmConsultarValorTotal.cs",
-              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\SuperShock\\FrmConsultarValorTotal.cs",
-              "RelativeDocumentMoniker": "SuperShock\\FrmConsultarValorTotal.cs",
-              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\SuperShock\\FrmConsultarValorTotal.cs",
-              "RelativeToolTip": "SuperShock\\FrmConsultarValorTotal.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwBUAAAALAAAA",
+              "DocumentIndex": 9,
+              "Title": "FrmConsultarConsumo.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmConsultarConsumo.cs",
+              "RelativeDocumentMoniker": "SuperShock\\FrmConsultarConsumo.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmConsultarConsumo.cs [Projeto]",
+              "RelativeToolTip": "SuperShock\\FrmConsultarConsumo.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T13:42:33.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T13:38:53.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContaDeEnergia.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\ContaDeEnergia.cs",
+              "RelativeDocumentMoniker": "SuperShock\\ContaDeEnergia.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\ContaDeEnergia.cs",
+              "RelativeToolTip": "SuperShock\\ContaDeEnergia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:41:44.114Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "FrmCadastrarConta.cs",
-              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\SuperShock\\FrmCadastrarConta.cs",
-              "RelativeDocumentMoniker": "SuperShock\\FrmCadastrarConta.cs",
-              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\SuperShock\\FrmCadastrarConta.cs",
-              "RelativeToolTip": "SuperShock\\FrmCadastrarConta.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBUAAAAMAAAA",
+              "Title": "FrmConsultarValorSemImposto.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmConsultarValorSemImposto.cs",
+              "RelativeDocumentMoniker": "SuperShock\\FrmConsultarValorSemImposto.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmConsultarValorSemImposto.cs [Projeto]",
+              "RelativeToolTip": "SuperShock\\FrmConsultarValorSemImposto.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T22:20:51.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "FrmConsultarValorTotal.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\SuperShock\\FrmConsultarValorTotal.Designer.cs",
-              "RelativeDocumentMoniker": "SuperShock\\FrmConsultarValorTotal.Designer.cs",
-              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\SuperShock\\FrmConsultarValorTotal.Designer.cs",
-              "RelativeToolTip": "SuperShock\\FrmConsultarValorTotal.Designer.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAowBYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T13:51:19.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T18:56:58.355Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "FrmConsultarConsumo.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\SuperShock\\FrmConsultarConsumo.Designer.cs",
-              "RelativeDocumentMoniker": "SuperShock\\FrmConsultarConsumo.Designer.cs",
-              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\SuperShock\\FrmConsultarConsumo.Designer.cs",
-              "RelativeToolTip": "SuperShock\\FrmConsultarConsumo.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "FrmConsultarValorTotal.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmConsultarValorTotal.cs",
+              "RelativeDocumentMoniker": "SuperShock\\FrmConsultarValorTotal.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmConsultarValorTotal.cs [Projeto]",
+              "RelativeToolTip": "SuperShock\\FrmConsultarValorTotal.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T13:53:17.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T23:10:19.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmConsultarConsumo.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmConsultarConsumo.cs",
+              "RelativeDocumentMoniker": "SuperShock\\FrmConsultarConsumo.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmConsultarConsumo.cs",
+              "RelativeToolTip": "SuperShock\\FrmConsultarConsumo.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:42:56.739Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "FrmConsultarValorTotal.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmConsultarValorTotal.cs",
+              "RelativeDocumentMoniker": "SuperShock\\FrmConsultarValorTotal.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmConsultarValorTotal.cs",
+              "RelativeToolTip": "SuperShock\\FrmConsultarValorTotal.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:42:33.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmCadastrarConta.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmCadastrarConta.cs",
+              "RelativeDocumentMoniker": "SuperShock\\FrmCadastrarConta.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmCadastrarConta.cs",
+              "RelativeToolTip": "SuperShock\\FrmCadastrarConta.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T22:20:51.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmConsultarValorTotal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmConsultarValorTotal.Designer.cs",
+              "RelativeDocumentMoniker": "SuperShock\\FrmConsultarValorTotal.Designer.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmConsultarValorTotal.Designer.cs",
+              "RelativeToolTip": "SuperShock\\FrmConsultarValorTotal.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:51:19.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmConsultarConsumo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmConsultarConsumo.Designer.cs",
+              "RelativeDocumentMoniker": "SuperShock\\FrmConsultarConsumo.Designer.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\FrmConsultarConsumo.Designer.cs",
+              "RelativeToolTip": "SuperShock\\FrmConsultarConsumo.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:53:17.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "SuperShock.csproj",
-              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\SuperShock\\SuperShock.csproj",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\SuperShock.csproj",
               "RelativeDocumentMoniker": "SuperShock\\SuperShock.csproj",
-              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Downloads\\3\u00BA\\POO\\POO-SuperShock\\SuperShock\\SuperShock\\SuperShock.csproj",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\OneDrive\\Desktop\\POO-SuperShock\\POO-SuperShock\\SuperShock\\SuperShock\\SuperShock.csproj",
               "RelativeToolTip": "SuperShock\\SuperShock.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

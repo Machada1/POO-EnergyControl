@@ -56,7 +56,7 @@ namespace SuperShock
                 else
                 {
                     // Continuação do processo de cadastro
-                    MessageBox.Show("Todos os campos foram preenchidos corretamente!", "Sucesso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show("Cadastro finalizado com sucesso", "Sucesso", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
             }
             catch

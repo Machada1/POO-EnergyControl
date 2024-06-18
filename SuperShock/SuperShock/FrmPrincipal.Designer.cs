@@ -38,6 +38,8 @@
             label2 = new Label();
             label3 = new Label();
             label1 = new Label();
+            btnCarregarDados = new Button();
+            btnSalvarDados = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -174,6 +176,40 @@
             label1.TabIndex = 9;
             label1.Text = "Menu";
             // 
+            // btnCarregarDados
+            // 
+            btnCarregarDados.Cursor = Cursors.Hand;
+            btnCarregarDados.FlatAppearance.BorderColor = Color.Orange;
+            btnCarregarDados.FlatAppearance.BorderSize = 2;
+            btnCarregarDados.FlatAppearance.MouseOverBackColor = Color.FromArgb(64, 64, 64);
+            btnCarregarDados.FlatStyle = FlatStyle.Flat;
+            btnCarregarDados.Font = new Font("Yu Gothic", 9.75F, FontStyle.Bold);
+            btnCarregarDados.ForeColor = Color.Orange;
+            btnCarregarDados.Location = new Point(416, 365);
+            btnCarregarDados.Name = "btnCarregarDados";
+            btnCarregarDados.Size = new Size(216, 30);
+            btnCarregarDados.TabIndex = 13;
+            btnCarregarDados.Text = "Carregar Dados";
+            btnCarregarDados.UseVisualStyleBackColor = true;
+            btnCarregarDados.Click += btnCarregarDados_Click;
+            // 
+            // btnSalvarDados
+            // 
+            btnSalvarDados.Cursor = Cursors.Hand;
+            btnSalvarDados.FlatAppearance.BorderColor = Color.Orange;
+            btnSalvarDados.FlatAppearance.BorderSize = 2;
+            btnSalvarDados.FlatAppearance.MouseOverBackColor = Color.FromArgb(64, 64, 64);
+            btnSalvarDados.FlatStyle = FlatStyle.Flat;
+            btnSalvarDados.Font = new Font("Yu Gothic", 9.75F, FontStyle.Bold);
+            btnSalvarDados.ForeColor = Color.Orange;
+            btnSalvarDados.Location = new Point(416, 329);
+            btnSalvarDados.Name = "btnSalvarDados";
+            btnSalvarDados.Size = new Size(216, 30);
+            btnSalvarDados.TabIndex = 12;
+            btnSalvarDados.Text = "Salvar Dados";
+            btnSalvarDados.UseVisualStyleBackColor = true;
+            btnSalvarDados.Click += btnSalvarDados_Click;
+            // 
             // FrmPrincipal
             // 
             AutoScaleDimensions = new SizeF(96F, 96F);
@@ -181,6 +217,8 @@
             BackColor = Color.Black;
             BackgroundImageLayout = ImageLayout.Center;
             ClientSize = new Size(800, 450);
+            Controls.Add(btnCarregarDados);
+            Controls.Add(btnSalvarDados);
             Controls.Add(label1);
             Controls.Add(label3);
             Controls.Add(label2);
@@ -210,5 +248,7 @@
         private Label label2;
         private Label label3;
         private Label label1;
+        private Button btnCarregarDados;
+        private Button btnSalvarDados;
     }
 }

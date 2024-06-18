@@ -42,5 +42,18 @@ namespace SuperShock
         {
 
         }
+
+        private void btnSalvarDados_Click(object sender, EventArgs e)
+        {
+            FrmSalvarDados frmSalvarDados = new FrmSalvarDados();
+            frmSalvarDados.ShowDialog();
+            //GerenciadorDeContas gerenciador;
+        }
+
+        private void btnCarregarDados_Click(object sender, EventArgs e)
+        {
+            FrmCarregarDados frmCarregarDados = new FrmCarregarDados();
+            frmCarregarDados.ShowDialog();
+        }
     }
 }

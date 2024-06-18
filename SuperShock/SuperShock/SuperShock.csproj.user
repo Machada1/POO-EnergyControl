@@ -4,6 +4,9 @@
     <Compile Update="FrmCadastrarConta.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="FrmCarregarDados.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="FrmConsultarConsumo.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -17,6 +20,9 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSalvarDados.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

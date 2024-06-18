@@ -48,9 +48,9 @@
             lblNomeConsumidor.ForeColor = Color.DarkOrange;
             lblNomeConsumidor.Location = new Point(100, 107);
             lblNomeConsumidor.Name = "lblNomeConsumidor";
-            lblNomeConsumidor.Size = new Size(155, 17);
+            lblNomeConsumidor.Size = new Size(147, 17);
             lblNomeConsumidor.TabIndex = 0;
-            lblNomeConsumidor.Text = "Nome do Consumidor: ";
+            lblNomeConsumidor.Text = "Nome do Consumidor";
             // 
             // txtNomeConsumidor
             // 
@@ -68,9 +68,9 @@
             lblCPFCNPJ.ForeColor = Color.DarkOrange;
             lblCPFCNPJ.Location = new Point(100, 185);
             lblCPFCNPJ.Name = "lblCPFCNPJ";
-            lblCPFCNPJ.Size = new Size(143, 17);
+            lblCPFCNPJ.Size = new Size(135, 17);
             lblCPFCNPJ.TabIndex = 2;
-            lblCPFCNPJ.Text = "CPF do Consumidor: ";
+            lblCPFCNPJ.Text = "CPF do Consumidor";
             // 
             // txtCPFCNPJ
             // 
@@ -87,9 +87,9 @@
             lblTipo.ForeColor = Color.DarkOrange;
             lblTipo.Location = new Point(100, 263);
             lblTipo.Name = "lblTipo";
-            lblTipo.Size = new Size(392, 17);
+            lblTipo.Size = new Size(384, 17);
             lblTipo.TabIndex = 4;
-            lblTipo.Text = "Tipo de Consumidor (1. Pessoa Física, 2. Pessoa Jurídica) : ";
+            lblTipo.Text = "Tipo de Consumidor (1. Pessoa Física, 2. Pessoa Jurídica) ";
             lblTipo.Click += lblTipo_Click;
             // 
             // txtTipoConsumidor
